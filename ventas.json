@@ -1,0 +1,100 @@
+[
+    {
+        "producto": "producto 1",
+        "cantidad": 1,
+        "precio_unitario": 12324.0,
+        "total": 12324.0,
+        "fecha": "2025-07-14 19:12:29"
+    },
+    {
+        "producto": "Lataffa Assad",
+        "cantidad": 1,
+        "precio_unitario": 55000.0,
+        "total": 55000.0,
+        "fecha": "2025-07-14 19:47:12"
+    },
+    {
+        "producto": "Lataffa Honor and Glory",
+        "cantidad": 2,
+        "precio_unitario": 52000.0,
+        "total": 104000.0,
+        "fecha": "2025-07-14 19:47:48"
+    },
+    {
+        "producto": "Lataffa Yara Rosa",
+        "cantidad": 1,
+        "precio_unitario": 57000.0,
+        "total": 57000.0,
+        "fecha": "2025-07-14 19:48:28"
+    },
+    {
+        "producto": "Armaf Club de Nuit",
+        "cantidad": 1,
+        "precio_unitario": 62000.0,
+        "total": 62000.0,
+        "fecha": "2025-07-14 19:49:15"
+    },
+    {
+        "producto": "Al Haramain Amber oud Gold",
+        "cantidad": 1,
+        "precio_unitario": 115000.0,
+        "total": 115000.0,
+        "fecha": "2025-07-14 19:49:43"
+    },
+    {
+        "producto": "Armaf Odyssey Mandaryn Sky",
+        "cantidad": 1,
+        "precio_unitario": 78000.0,
+        "total": 78000.0,
+        "fecha": "2025-07-14 19:51:44"
+    },
+    {
+        "producto": "Lataffa Fakhar Woman Rose Gold",
+        "cantidad": 1,
+        "precio_unitario": 52000.0,
+        "total": 52000.0,
+        "fecha": "2025-07-14 19:52:15"
+    },
+    {
+        "producto": "Afnan 9pm",
+        "cantidad": 1,
+        "precio_unitario": 66000.0,
+        "total": 66000.0,
+        "fecha": "2025-07-14 19:52:33"
+    },
+    {
+        "producto": "Lataffa Yara Rosa",
+        "cantidad": 1,
+        "precio_unitario": 57000.0,
+        "total": 57000.0,
+        "fecha": "2025-07-14 19:54:17"
+    },
+    {
+        "producto": "Bharara King",
+        "cantidad": 1,
+        "precio_unitario": 120000.0,
+        "total": 120000.0,
+        "fecha": "2025-07-14 19:54:49"
+    },
+    {
+        "producto": "Afnan 9pm",
+        "cantidad": 1,
+        "precio_unitario": 66000.0,
+        "total": 66000.0,
+        "fecha": "2025-07-14 19:58:41"
+    },
+    {
+        "producto": "Afnan 9pm",
+        "cantidad": 1,
+        "precio_unitario": 66000.0,
+        "total": 66000.0,
+        "fecha": "2025-07-14 19:58:54"
+    },
+    {
+        "producto": "Lataffa Fakhar Silver",
+        "cantidad": 2,
+        "precio_unitario": 52000.0,
+        "total": 104000.0,
+        "fecha": "2025-07-14 19:59:06"
+    }
+]
